@@ -10,7 +10,7 @@ Built on .NET 9.0, and Model Context Protocol (MCP). Uses the **Microsoft Agent 
 
 ```bash
 # Clone and build
-git clone https://github.com/azurenoops/platform-engineering-copilot.git
+git clone https://github.com/POps-Rox/platform-engineering-copilot.git
 cd platform-engineering-copilot
 dotnet build
 
