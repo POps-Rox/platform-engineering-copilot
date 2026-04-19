@@ -481,7 +481,7 @@ platform-copilot-m365/
 
 - **Documentation**: See `/docs/M365-COPILOT-INTEGRATION.md` for detailed guide
 - **GitHub Issues**: Report bugs on GitHub repository
-- **Email**: support@azurenoops.org
+- **Email**: support@pops-rox.org
 
 ---
 

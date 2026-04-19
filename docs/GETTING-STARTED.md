@@ -30,7 +30,7 @@ az login --use-device-code
 az account set --subscription "your-subscription-id"
 
 # 1. Clone repository
-git clone https://github.com/azurenoops/platform-engineering-copilot.git
+git clone https://github.com/POps-Rox/platform-engineering-copilot.git
 cd platform-engineering-copilot
 
 # 2. Copy environment template
@@ -58,7 +58,7 @@ dotnet --version  # Should show 9.0.x
 node --version    # Should show 18.x or higher
 
 # 2. Clone and restore
-git clone https://github.com/azurenoops/platform-engineering-copilot.git
+git clone https://github.com/POps-Rox/platform-engineering-copilot.git
 cd platform-engineering-copilot
 dotnet restore
 
@@ -97,7 +97,7 @@ dotnet run
 
 ```bash
 # Clone repository
-git clone https://github.com/azurenoops/platform-engineering-copilot.git
+git clone https://github.com/POps-Rox/platform-engineering-copilot.git
 cd platform-engineering-copilot
 
 # Restore .NET dependencies
@@ -1551,7 +1551,7 @@ cat src/Platform.Engineering.Copilot.Mcp/appsettings.json | grep AgentConfigurat
 ### Getting Help
 
 - **Documentation**: See [docs/README.md](./README.md) for complete index
-- **Issues**: Create issue at [GitHub Issues](https://github.com/azurenoops/platform-engineering-copilot/issues)
+- **Issues**: Create issue at [GitHub Issues](https://github.com/POps-Rox/platform-engineering-copilot/issues)
 - **Authentication**: See [AUTHENTICATION.md](./AUTHENTICATION.md)
 - **Deployment**: See [DEPLOYMENT.md](./DEPLOYMENT.md)
 - **Development**: See [DEVELOPMENT.md](./DEVELOPMENT.md)

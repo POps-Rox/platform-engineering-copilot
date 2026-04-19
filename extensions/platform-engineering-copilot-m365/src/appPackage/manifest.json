@@ -2,13 +2,13 @@
   "$schema": "https://developer.microsoft.com/json-schemas/teams/v1.16/MicrosoftTeams.schema.json",
   "manifestVersion": "1.16",
   "version": "0.7.1",
-  "id": "com.azurenoops.platform-copilot",
-  "packageName": "com.azurenoops.platform-copilot",
+  "id": "com.pops-rox.platform-copilot",
+  "packageName": "com.pops-rox.platform-copilot",
   "developer": {
-    "name": "Azure NoOps",
-    "websiteUrl": "https://azurenoops.org",
-    "privacyUrl": "https://azurenoops.org/privacy",
-    "termsOfUseUrl": "https://azurenoops.org/terms"
+    "name": "POps-Rox",
+    "websiteUrl": "https://github.com/POps-Rox",
+    "privacyUrl": "https://github.com/POps-Rox/platform-engineering-copilot/blob/main/docs/PRIVACY.md",
+    "termsOfUseUrl": "https://github.com/POps-Rox/platform-engineering-copilot/blob/main/docs/TERMS.md"
   },
   "icons": {
     "color": "color.png",

@@ -127,7 +127,7 @@ Version 0.7.2 introduces enhanced compliance capabilities, improved infrastructu
 ## 📞 Support
 
 For issues, feature requests, or questions:
-- GitHub Issues: https://github.com/azurenoops/platform-engineering-copilot/issues
+- GitHub Issues: https://github.com/POps-Rox/platform-engineering-copilot/issues
 - Documentation: `/docs/README.md`
 
 ## 🙏 Contributors

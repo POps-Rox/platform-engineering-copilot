@@ -351,7 +351,7 @@ platform-engineering-copilot/
 ### 1. Environment Setup
 
 ```bash
-git clone https://github.com/azurenoops/platform-engineering-copilot.git
+git clone https://github.com/POps-Rox/platform-engineering-copilot.git
 cd platform-engineering-copilot
 
 dotnet restore Platform.Engineering.Copilot.sln

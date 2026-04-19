@@ -24,7 +24,7 @@
     "declarative-agent",
     "ai"
   ],
-  "author": "Azure NoOps",
+  "author": "POps-Rox",
   "license": "MIT",
   "dependencies": {
     "@microsoft/teams-ai": "^1.2.0",
