@@ -4,9 +4,9 @@ info:
   description: AI-powered Azure infrastructure provisioning and management for M365 Copilot integration
   version: 1.0.0
   contact:
-    name: Azure NoOps
-    email: support@azurenoops.org
-    url: https://azurenoops.org
+    name: POps-Rox
+    email: support@pops-rox.org
+    url: https://github.com/POps-Rox
 
 servers:
   - url: https://platform-copilot-m365.azurewebsites.us

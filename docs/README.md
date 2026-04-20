@@ -27,7 +27,7 @@ An MCP-centric multi-agent platform built on .NET 9.0 that orchestrates **7 spec
 
 ```bash
 # 1. Clone and authenticate
-git clone https://github.com/azurenoops/platform-engineering-copilot.git
+git clone https://github.com/POps-Rox/platform-engineering-copilot.git
 cd platform-engineering-copilot
 az cloud set --name AzureUSGovernment  # or AzureCloud
 az login

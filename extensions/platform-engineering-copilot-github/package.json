@@ -3,10 +3,10 @@
   "displayName": "Platform Engineering Copilot for GitHub Copilot",
   "description": "GitHub Copilot Chat extension for Platform Engineering - AI-powered Azure infrastructure management with Agent FX multi-agent orchestration",
   "version": "0.9.0",
-  "publisher": "AzureNoOps",
+  "publisher": "POps-Rox",
   "repository": {
     "type": "git",
-    "url": "https://github.com/azurenoops/platform-engineering-copilot.git"
+    "url": "https://github.com/POps-Rox/platform-engineering-copilot.git"
   },
   "engines": {
     "vscode": "^1.90.0"
